@@ -1,5 +1,8 @@
 # calculator
 
+This calculator is development with Javascript and use Vue Js.
+
+
 ## Project setup
 ```
 npm install
