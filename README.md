@@ -1,6 +1,6 @@
 # calculator
 
-This calculator is development with Javascript and use Vue Js.
+This calculator is development with Javascript and use the Framework Vue Js.
 
 
 ## Project setup
